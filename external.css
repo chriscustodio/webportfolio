@@ -1,0 +1,66 @@
+html {
+	scroll-behavior: smooth;
+}
+
+
+.navbar{
+	opacity: 0.8;
+	background-color: #F47C7C!important;
+}
+
+.nav-link, .navbar-brand{
+	font-family: 'Fuzzy Bubbles', cursive;
+	color: black!important;
+}
+
+#landing{
+	background-image: url("./images/peach.jpg");
+	background-repeat: repeat-x;
+	margin-bottom: 0rem;
+	padding-top: 6rem;
+	min-height: 70vh!important;
+}
+
+#aboutme{
+	background-color: #F47C7C;
+	margin-bottom: 0rem;
+	min-height: 80vh!important;
+}
+
+#projects{
+	background-color: #FFF2F2;	
+	min-height: 80vh!important;
+}
+
+#tools{
+	background-color: #FAD4D4;
+	padding-top: 3rem;
+	padding-bottom: 2rem;
+	min-height: 60vh!important;
+}
+
+#contact{
+	background-color: #FFF2F2;
+	min-height: 60vh!important;
+}
+
+.card {
+	background-color: #FAD4D4!important;
+}
+
+.fab {
+	font-size: 40px!important;
+}
+
+.footer{
+	line-height: 0.3rem;
+	background-color: #EF9F9F!important;
+}
+
+.display-4{
+	font-family: 'Rubik Dirt', cursive!important;
+}
+
+.my-4{
+	font-family: 'Fuzzy Bubbles', cursive!important;
+}
